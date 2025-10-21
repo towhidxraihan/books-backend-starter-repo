@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "isbn": "9780747532743",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "publishedYear": 1997,
+      "reviews": {
+        "john": "A magical start to a legendary series!",
+        "sarah": "Loved the world-building and imagination."
+      }
+    },
+    {
+      "isbn": "9780553386790",
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "publishedYear": 1996,
+      "reviews": {
+        "mike": "Epic storytelling and deep characters.",
+        "emma": "Too many characters, but still amazing!"
+      }
+    },
+    {
+      "isbn": "9780061120084",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publishedYear": 1960,
+      "reviews": {
+        "alex": "A timeless classic with powerful themes.",
+        "lucy": "Emotional and eye-opening story."
+      }
+    },
+    {
+      "isbn": "9780451524935",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedYear": 1949,
+      "reviews": {
+        "david": "Disturbingly relevant even today.",
+        "nina": "Makes you think deeply about society."
+      }
+    },
+    {
+      "isbn": "9780141439518",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publishedYear": 1813,
+      "reviews": {
+        "sophie": "A beautiful story about love and class.",
+        "mark": "Witty and ahead of its time."
+      }
+    }
+  ]
+}
